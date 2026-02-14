@@ -12,7 +12,7 @@
 ## 🚀 About Me  
 
 🔭 I’m currently working on:  
-Building scalable web applications using Next.js and TypeScript  
+Building scalable web applications using React.js and Javascript  
 
 🌱 I’m currently learning:  
 Advanced Backend Development & System Design  
@@ -21,7 +21,7 @@ Advanced Backend Development & System Design
 Full Stack Web Applications and Open Source Projects  
 
 💬 Ask me about:  
-React.js, Next.js, Node.js, MongoDB, TypeScript  
+React.js, Next.js, Node.js, MongoDB, TypeScript, Javascript, C++, HTML, CSS, Express.js 
 
 ⚡ Fun fact:  
 I enjoy building real-world products and contributing to open source 🚀
